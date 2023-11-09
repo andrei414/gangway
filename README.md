@@ -1,4 +1,4 @@
-```markdown
+
 # Gangway Helm Chart
 
 ## Overview
@@ -55,5 +55,5 @@ For more configuration options and details, refer to the official Gangway docume
 
 - Ensure that the necessary Kubernetes namespace (`tools`) is created before deploying Gangway.
 - Customize the Gangway configuration based on your specific requirements.
-- For detailed information about Gangway and its configurations, visit the official documentation: [Gangway Documentation](<https://github.com/helm/charts/tree/master/stable/gangway>)
-```
+- For detailed information about Gangway and its configurations, visit the official documentation: [Gangway Documentation](https://github.com/helm/charts/tree/master/stable/gangway)
+
